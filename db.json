@@ -1,0 +1,16 @@
+{
+  "data": {
+    "user": {
+      "account": "user1",
+      "name": "User 1",
+      "avatar": "",
+      "email": "user1@email.com",
+      "bio": "Short bio,
+      "interests": "Interest 1, interest 2",
+      "location": "No location provided",
+      "chat_user_id": "izcyooNXbhSeSKmce",
+      "chat_token": "ekn6LLgHA53Iq7k7r1uxsq7JLhYoRZly9QTzoa6wjHl",
+      "communities": []
+    }
+  }
+}
